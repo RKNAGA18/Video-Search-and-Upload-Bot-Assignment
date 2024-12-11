@@ -1,0 +1,12 @@
+Libraries:
+instaloader
+watchdog
+tqdm
+aiohttp
+requests
+TikTokApi
+API Access:
+Valid Flic-Token
+API endpoints for upload URL and video posting.
+Directory:
+A directory to monitor for .mp4 files
